@@ -9,14 +9,12 @@ Modul SIAKAD ini bertujuan untuk mendaftarkan prestasi yang dimiliki oleh mahasi
 * Guzzle
 
 ## Screenshot
-![Dasbor Prestasi](https://github.com/caturbgs/UAS-Web3/blob/master/ss/Screenshot_2020-08-01%20Login%20SIAKAD%20-%20UAS%20Pemrograman%20Website%203.png)
+![Dasbor Admin](https://github.com/caturbgs/modul_prestasi/blob/master/ss/dasbor_prestasi_adm.png)
 
-![Login](https://github.com/caturbgs/UAS-Web3/blob/master/ss/Screenshot_2020-08-01%20Login%20SIAKAD%20-%20UAS%20Pemrograman%20Website%203.png)
+![Verifikasi](https://github.com/caturbgs/modul_prestasi/blob/master/ss/verifikasi_prestasi.png)
 
-![Login](https://github.com/caturbgs/UAS-Web3/blob/master/ss/Screenshot_2020-08-01%20Login%20SIAKAD%20-%20UAS%20Pemrograman%20Website%203.png)
+![Dasbor Mahasiswa](https://github.com/caturbgs/modul_prestasi/blob/master/ss/dasbor_prestasi_mhs.png)
 
-![Login](https://github.com/caturbgs/UAS-Web3/blob/master/ss/Screenshot_2020-08-01%20Login%20SIAKAD%20-%20UAS%20Pemrograman%20Website%203.png)
+![Register Prestasi](https://github.com/caturbgs/modul_prestasi/blob/master/ss/add_prestasi.png)
 
-![Login](https://github.com/caturbgs/UAS-Web3/blob/master/ss/Screenshot_2020-08-01%20Login%20SIAKAD%20-%20UAS%20Pemrograman%20Website%203.png)
-
-![Login](https://github.com/caturbgs/UAS-Web3/blob/master/ss/Screenshot_2020-08-01%20Login%20SIAKAD%20-%20UAS%20Pemrograman%20Website%203.png)
+![Register Mapres](https://github.com/caturbgs/modul_prestasi/blob/master/ss/register_mapres.png)
